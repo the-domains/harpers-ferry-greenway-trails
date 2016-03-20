@@ -1,0 +1,28 @@
+name: 'Harpers Ferry Greenway Trails '
+favicon: null
+layout_spectrum: 0.48935056244954467
+typography_spectrum: 0.02925267838872969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.531943931709975
+  lightness: 0.8257609831634909
+  saturation: 0.5971125806681812
+  rhythmicContrast: 0.06519736628979445
+purpose: []
